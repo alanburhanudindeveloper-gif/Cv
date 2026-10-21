@@ -1,0 +1,6 @@
+{
+  "name": "AI ATS Resume Builder",
+  "description": "Transform raw text into professional, ATS-friendly resumes using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
